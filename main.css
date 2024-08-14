@@ -6,3 +6,9 @@
   
 }
 
+[src^="https://cdn.discordapp.com/avatars/1074736931843350568"]
+{
+  content: url(https://i.imgur.com/eBLpUdZ.gif);
+  object-fit: scale-down;
+  aspect-ratio: 1;
+}
